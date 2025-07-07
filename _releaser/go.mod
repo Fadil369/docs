@@ -1,6 +1,6 @@
 module github.com/docker/docs/_releaser
 
-go 1.18
+go 1.23.0
 
 require (
 	github.com/alecthomas/kong v0.7.1
@@ -10,6 +10,6 @@ require (
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/net v0.38.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
